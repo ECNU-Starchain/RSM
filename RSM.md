@@ -34,8 +34,3 @@
 --|--|--|[cmu 15-721(Advanced Database System)](https://15721.courses.cs.cmu.edu/spring2020/)
 --|--|--|[mit 6.824(Distributed Systems)](https://pdos.csail.mit.edu/6.824/)
 区块链论文|--|--|[vChain](https://arxiv.org/pdf/1812.02386.pdf)
-|||
-|||
-|||
-|||
-|||
