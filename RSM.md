@@ -17,11 +17,11 @@
 --|--| Paxos | Basic Paxos, Multi-Paxos 
 --|--| E-Paxos| [E-Paxos](https://www.cs.cmu.edu/~dga/papers/epaxos-sosp2013.pdf)
 --|--| PBFT | [PBFT](http://nil.csail.mit.edu/6.824/2017/papers/castro-practicalbft.pdf) 
-     --     |    分布式计算    |           --           | [MapReduce](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf) 
-     --     |       缓存       |           --           | [Memcache](https://pdos.csail.mit.edu/6.824/papers/memcache-fb.pdf) 
-     --     |        --        |           --           |           [Redis](https://redis.com/whitepapers/)            
-     --     |        --        |           --           | [一致性模型](https://zhuanlan.zhihu.com/p/48157076)， [内存计算核心技术](https://zhuanlan.zhihu.com/p/35668651) 
-  实现技术  |       网络       |          RPC           |[gRPC](https://grpc.io/) 
+--     |    分布式计算    |           --           | [MapReduce](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf) 
+--     |       缓存       |           --           | [Memcache](https://pdos.csail.mit.edu/6.824/papers/memcache-fb.pdf) 
+--     |        --        |           --           |           [Redis](https://redis.com/whitepapers/)            
+--     |        --        |           --           | [一致性模型](https://zhuanlan.zhihu.com/p/48157076)， [内存计算核心技术](https://zhuanlan.zhihu.com/p/35668651) 
+实现技术  |       网络       |          RPC           |[gRPC](https://grpc.io/) 
 --|--|IO复用| [一文看懂IO多路复用](https://zhuanlan.zhihu.com/p/115220699)，[事件驱动与协程](https://zhuanlan.zhihu.com/p/31410589) 
 --|多线程编程|竞争与等待|
 --|--|无锁技术| [lock-free data structure](https://www.cnblogs.com/lucifer1982/archive/2009/04/08/1431992.html)
