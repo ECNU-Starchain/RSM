@@ -37,3 +37,8 @@
 --|--|--|[BlockchainDB - A Shared Database on Blockchains](https://arxiv.org/pdf/1812.02386.pdf)
 --|--|--|[Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems](https://arxiv.org/pdf/1812.02386.pdf)
 --|--|--|[Blockchain Meets Database: Design and Implementation of a Blockchain Relational Database](https://arxiv.org/pdf/1812.02386.pdf)
+--|--|ICDE|[SEBDB:Semantics Empowered BlockChain DataBase](https://arxiv.org/pdf/1812.02386.pdf)
+--|--|SIGMOD|[SEBDB:Semantics Empowered BlockChain DataBase](https://arxiv.org/pdf/1812.02386.pdf)
+--|--|--|[Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric](https://arxiv.org/pdf/1812.02386.pdf)
+--|--|--|[vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases](https://arxiv.org/pdf/1812.02386.pdf)
+--|--|--|[Towards Scaling Blockchain Systems via Sharding.](https://arxiv.org/pdf/1812.02386.pdf)
