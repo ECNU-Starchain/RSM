@@ -41,6 +41,6 @@
 --|--|SIGMOD|[Towards Scaling Blockchain Systems via Sharding](https://www.comp.nus.edu.sg/~hungdang/papers/sharding.pdf)
 --|--|--|[Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric](https://dl.acm.org/doi/pdf/10.1145/3299869.3319883?download=true)
 --|--|--|[vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases](https://arxiv.org/pdf/1812.02386.pdf)
---|--|SOSP|[Teechain: A Secure Payment Network with Asynchronous Blockchain Access]([https://arxiv.org/pdf/1812.02386.pdf](https://arxiv.org/pdf/1707.05454.pdf))
+--|--|SOSP|[Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf)
 --|--|--|[Fast and Secure Global Payments with Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf)
 --|--|--|[Notary: A Device for Secure Transaction Approval](https://pdos.csail.mit.edu/papers/notary:sosp19.pdf)
