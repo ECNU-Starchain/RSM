@@ -35,7 +35,7 @@
 --|--|--|[mit 6.824(Distributed Systems)](https://pdos.csail.mit.edu/6.824/)
 区块链论文|--|--|[vChain](https://arxiv.org/pdf/1812.02386.pdf)
 [Intel SGX](https://github.com/intel/linux-sgx)|介绍|--|[Intel SGX Explained](https://eprint.iacr.org/2016/086.pdf)
---|综述|--|[SGX应用支持技术研究进展](https://www.cnki.com.cn/Article/CJFDTotal-RJXB202101007.htm)
+--|--|--|[SGX应用支持技术研究进展](https://www.cnki.com.cn/Article/CJFDTotal-RJXB202101007.htm)
 --|--|--|[面向SGX2代新型可信执行环境的内存优化系统](http://web03.cnki.net.https.jxutcmtsg.proxy.jxutcm.edu.cn/kcms/detail/detail.aspx?filename=RJXB202206004&dbcode=LRIJ&dbname=LRITLKCJFDLAST2022&v=MTM0MjZpZmJ1Wm1GQ3ZoVWJyS055ZlRiTEc0SE5QTXFZOUZZSVIrQzM4NHpoNFhuRDBMVGcyWDJoc3hGckNVUjc=)
 --|论文|实验室相关论文|[SEFrame: An SGX-enhanced Smart Contract Execution Framework for Permissioned Blockchain](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835475)
 --|--|--|[An SGX-based execution framework for smart contracts upon permissioned blockchain](https://link.springer.com/article/10.1007/s10619-022-07409-7)
