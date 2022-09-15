@@ -59,6 +59,6 @@ Study Materials Recommended by ECNU DASE Blockchain Lab
 --|--|--|[Calvin: fast distributed transactions for partitioned database systems. SIGMOD 2012](https://dl.acm.org/doi/10.1145/2213836.2213838)
 --|--|--|[An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems. VLDB 2014](https://dl.acm.org/doi/10.14778/2732951.2732955)
 --|--|--|[Aria: A Fast and Practical Deterministic OLTP Database. VLDB 2020](http://www.vldb.org/pvldb/vol13/p2047-lu.pdf)
---|--|实验室相关论文|[SChain: A Scalable Consortium Blockchain Exploiting Intra- and Inter-Block Concurrency. SIGMOD 2021](https://dl.acm.org/doi/10.14778/1920841.1920855)
+--|--|实验室相关论文|[SChain: A Scalable Consortium Blockchain Exploiting Intra- and Inter-Block Concurrency. VLDB 2021](https://dl.acm.org/doi/10.14778/1920841.1920855)
 --|--|--|[PEEP: A Parallel Execution Engine for Permissioned Blockchain Systems. DASFAA 2021](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_24)
 --|--|其他|[Github相关汇总论文集](https://github.com/Maxul/Awesome-SGX-Open-Source/blob/master/Academy.md)
